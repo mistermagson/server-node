@@ -1,14 +1,8 @@
-# server-node
+# Server-node
 
 A minimalist webserver
 
-## Getting started
-
-Os arquivos serão servidos estaticamente.
-
-Devem estar na pasta ```plantao-app```
-
-## Usage
+## Criar o Servidor
 
 - Clone this repo
 
@@ -18,3 +12,9 @@ cd server-node
 npm install
 node server.js
 ```
+
+## Arquivos
+
+Os arquivos serão servidos estaticamente.
+
+Devem estar na pasta ```plantao-app```
