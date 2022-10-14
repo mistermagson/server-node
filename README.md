@@ -17,4 +17,5 @@ node server.js
 
 Os arquivos serão servidos estaticamente.
 
-Devem estar na pasta ```plantao-app```
+Realizar o 'build' da aplicação  ```https://gitdev.trf3.jus.br/MMMAGAL/plantao-app.git``` 
+e copiar o conteúdo da pasta dist para a pasta ```plantao-app```
